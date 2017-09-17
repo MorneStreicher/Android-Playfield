@@ -16,6 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activities.listpeople.ListPeopleActivity"/>
         <service android:name=".services.message.MessageService" />
     </application>
 
